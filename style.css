@@ -1,0 +1,17 @@
+.forms1 {
+  display: flex;
+  margin-bottom: 10px;
+  font-size: 25px;
+  border-radius: 20px;
+  text-align: center;
+}
+.redbutton {
+  background-color: red;
+  margin-top: 10px;
+  font-size: 35px;
+  border-radius: 20px;
+  color: white;
+}
+.forms1::placeholder {
+  font-size: 15px;
+}
